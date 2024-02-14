@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe Game</title>
+    <link rel="stylesheet"  href="style.css">
+ </head>
+ <body>
+
+    
+    <div id="turn">Please rotate your device!</div>
+
+    <div id="contents">
+    <main class="main-con">
+        <h1>Tic Tac Toe</h1>
+        <div class="container">
+            <div class="game">
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+                <button class="box"></button>
+            </div>
+        </div>
+
+        <div class="msg-main-container hide">
+            <p id="msg">CONGRATULATIONS, WINNER</p>
+            <div classs="msg-container">
+                <video class="video" controls autoplay>
+                    <source id="videoSource" src="bhai.mp4" type="video/mp4">
+                </video>
+    
+            </div>
+
+        </div>
+
+
+        <div>
+            <div class="button-container">
+                <button id="new_game-btn">NEW GAME</button>
+                <button id="reset">RESET GAME</button>
+            </div>
+        </div>
+    </main>
+    </div>
+
+    <script src="script.js"></script>
+ </body>
+ </html>
