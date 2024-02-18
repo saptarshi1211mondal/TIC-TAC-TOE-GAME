@@ -4,16 +4,70 @@
 }
 
 body{
-    background-color:#dbe4ee;
+    background-color:#F0FFFF;
     text-align: center;
+    
+}
+
+.player-container{
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+#single{
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+    background-color: #0077b6;
+    color: white;
+    border-radius: 2rem;
+    border: 3px solid #03045e;
+}
+
+
+#multi{
+    
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight:900;
+    background-color: #890877;
+    color: white;
+    border-radius: 2rem;
+    border: 3px solid #03045e;
+
+}
+
+#reset{
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+    background-color: #0077b6;
+    color: white;
+    border-radius: 2rem;
+    border: 3px solid #03045e;
+}
+
+#new_game-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    font-weight: 800;
+    background-color: #890877;
+    color: white;
+    border-radius: 2rem;
+    border: 3px solid #03045e;
     
 }
 
 h1{
     font-size: 5rem;
-    font-weight: 800;
+    font-weight: 900;
     background-color: #1b4965;
-    color: #bee9e8;
+    color: white;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     
 }
@@ -34,11 +88,12 @@ h1{
 }
 
 .box{
-    background-color: #1b4965;
+    background-color: #1d3557;
     border-radius: 1rem;
     border: 1px solid #78290f;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
     font-size: 4rem;
+    font-weight: 800;
     color: white;
 
 }
@@ -56,29 +111,7 @@ h1{
     justify-content: center;
 }
 
-#reset{
-    padding: 0.8rem;
-    font-size: 1.25rem;
-    font-weight: 800;
-    background-color: #0d3b66;
-    color: #bee9e8;
-    border-radius: 0.8rem;
-    border: 1px solid black;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
 
-}
-
-#new_game-btn{
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    padding: 0.8rem;
-    font-size: 1.25rem;
-    font-weight: 800;
-    background-color: #0d3b66;
-    color: #bee9e8;
-    border-radius: 0.8rem;
-    border: 1px solid black;
-}
 
 .msg-main-container{
     align-items: center;
@@ -156,12 +189,12 @@ h1{
         font-size: 3rem;
     }
     
-    #reset{
-        font-size: 0.8rem;
+    #reset, #single{
+        font-size: 0.5rem;
     }
         
-    #new_game-btn{
-        font-size: 0.8rem;
+    #new_game-btn, #multi{
+        font-size: 0.5rem;
     }
 }
 
@@ -195,12 +228,12 @@ h1{
         font-size: 3.2rem;
     }
     
-    #reset{
-        font-size: 1rem;
+    #reset, #single{
+        font-size: 0.8rem;
     }
         
-    #new_game-btn{
-        font-size: 1rem;
+    #new_game-btn, #multi{
+        font-size: 0.8rem;
     }
 }
 
@@ -237,12 +270,12 @@ h1{
         font-size: 4.2rem;
     }
     
-    #reset{
-        font-size: 1.2rem;
+    #reset, #single{
+        font-size: 0.8rem;
     }
         
-    #new_game-btn{
-        font-size: 1.2rem;
+    #new_game-btn, #multi{
+        font-size: 0.8rem;
     }
 }
 
@@ -277,12 +310,12 @@ h1{
         font-size: 4rem;
     }
     
-    #reset{
-        font-size: 1.5rem;
+    #reset, #single{
+        font-size: 1.2rem;
     }
         
-    #new_game-btn{
-        font-size: 1.5rem;
+    #new_game-btn, #multi{
+        font-size: 1.2rem;
     }
 }
 
@@ -292,7 +325,7 @@ h1{
 
 
     h1{
-        font-size: 5rem;
+        font-size: 7rem;
     }
 
     #msg{
@@ -323,11 +356,11 @@ h1{
         font-size: 7rem;
     }
     
-    #reset{
+    #reset, #single{
         font-size: 2rem;
     }
         
-    #new_game-btn{
+    #new_game-btn, #multi{
         font-size: 2rem;
     }
 }
