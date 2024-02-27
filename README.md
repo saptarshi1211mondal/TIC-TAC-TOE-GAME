@@ -16,6 +16,7 @@ Tic-Tac-Toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for tw
 This classic game not only provides timeless entertainment but also serves as a valuable tool for children's developmental growth.
 
 # Video :
+https://www.youtube.com/watch?v=SzW-Sgy_-Fs
 
 [Tic-Tac-Toe video.mp4.webm](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/82b602ee-ace6-4372-9139-b5d370781785)
 
