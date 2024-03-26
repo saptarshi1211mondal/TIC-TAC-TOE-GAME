@@ -40,4 +40,16 @@ https://www.youtube.com/watch?v=SzW-Sgy_-Fs
 ![Screenshot 2024-02-18 114839](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e66f2e72-5140-45f9-a945-a5a892784f60)
 
 # 6. Loosing Message :
-![Screenshot 2024-02-18 114858](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/1016854f-b10c-4244-9acf-4434fe65e29b)
+![Screenshot 2024-02-18 114858](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/1016854f-b10c-4244-9acf-4434fe65e29b) 
+
+
+# Responsive View :
+![Screenshot 2024-03-26 102143](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/f81fc3d4-65e8-4c32-829c-c472586fa0aa)
+![Screenshot 2024-03-26 102043](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/d99e7e75-1c0a-41dc-9516-f752ee0921c9)
+![Screenshot 2024-03-26 102218](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/c91593f6-3475-44e6-8780-25e1117e3aa5)
+![Screenshot 2024-03-26 102245](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/e62887e3-b810-44fd-a982-aa6eaff09939)
+![Screenshot 2024-03-26 102331](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/1020bfdc-8c79-478e-af62-48326948b33b)
+![Screenshot 2024-03-26 102356](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/b2ed6a2c-b79d-4279-b7d0-6ec2317127f8)
+
+
+
