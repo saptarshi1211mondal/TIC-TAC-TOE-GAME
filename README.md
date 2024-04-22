@@ -1,6 +1,6 @@
-# Tic-Tac-Toe-Game  [( PLAY )](https://saptarshi1211mondal.github.io/Tic-Tac-Toe-Game/)
+# Triad Triumph Game   [( PLAY )](https://saptarshi1211mondal.github.io/Tic-Tac-Toe-Game/)
 
-Experience the classic Tic-Tac-Toe game like never before with this engaging web application.
+Triad Triumph, also known as Tic-Tac-Toe Game: Experience the classic tic-tac-toe game like never before with this engaging web application.
 
 - This single-player, multiplayer-friendly experience is crafted using a combination of HTML, CSS, and JavaScript, ensuring a seamless and visually appealing interface. 
 
