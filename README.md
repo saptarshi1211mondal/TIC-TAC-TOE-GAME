@@ -1,4 +1,4 @@
-# Triad Triumph Game Play on - [Website ](https://saptarshi1211mondal.github.io/Triad-Triumph-Game/) or [Download App](https://drive.google.com/file/d/1XWSmYqeNfa7EzWd0Qp_8EMvgo2QnJuLJ/view?usp=drive_link)  <img src="https://github.com/saptarshi1211mondal/Triad-Triumph-Game/blob/774b046cf12fc1f72b2a686fac34e07ff751952a/splash_app_logo.png" width="80" height="80" />
+# Triad Triumph Game : Play on - [Website ](https://saptarshi1211mondal.github.io/Triad-Triumph-Game/) or [Download App](https://drive.google.com/file/d/1XWSmYqeNfa7EzWd0Qp_8EMvgo2QnJuLJ/view?usp=drive_link)  <img src="https://github.com/saptarshi1211mondal/Triad-Triumph-Game/blob/774b046cf12fc1f72b2a686fac34e07ff751952a/splash_app_logo.png" width="80" height="80" />
 
 
 
@@ -13,15 +13,19 @@ Triad Triumph, also known as Tic-Tac-Toe Game: Experience the classic tic-tac-to
 
 - Mobile-friendly design ensures a seamless gaming experience, allowing you to enjoy the game conveniently on both desktop and mobile devices.
 
-  
 # How To Play ?
 Tic-Tac-Toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 This classic game not only provides timeless entertainment but also serves as a valuable tool for children's developmental growth.
 
-# Video :
-https://www.youtube.com/watch?v=SzW-Sgy_-Fs
 
-[Tic-Tac-Toe video.mp4.webm](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/82b602ee-ace6-4372-9139-b5d370781785)
+# Website video :
+
+[Tic-Tac-Toe video.mp4.webm](https://github.com/saptarshi1211mondal/Tic-Tac-Toe-Game/assets/70250497/82b602ee-ace6-4372-9139-b5d370781785) 
+
+# Android App video :
+
+https://github.com/saptarshi1211mondal/Triad-Triumph-Game/assets/70250497/a449342c-8436-4bc2-b683-7e41789f3f1e
+
 
 
 # Screenshots -
