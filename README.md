@@ -1,4 +1,5 @@
-# Triad Triumph Game   [( PLAY )](https://saptarshi1211mondal.github.io/Triad-Triumph-Game/)
+# Triad Triumph Game Play on - [Website ](https://saptarshi1211mondal.github.io/Triad-Triumph-Game/) or [Download App](https://drive.google.com/file/d/1XWSmYqeNfa7EzWd0Qp_8EMvgo2QnJuLJ/view?usp=drive_link) 
+
 
 Triad Triumph, also known as Tic-Tac-Toe Game: Experience the classic tic-tac-toe game like never before with this engaging web application.
 
